@@ -32,7 +32,7 @@
 ### 4. Experience:
 **My Codewars account(there are a few example my code on JavaScript)** : [My Codewars Account](https://www.codewars.com/users/whitebird)  
 Participated in numerous coding contest(for example: [acm](https://icpc.baylor.edu), [Catalyst Coding Contest(Minsk)](https://register.codingcontest.org), a lot of contests in my university)
-#### 5. Education:
+### 5. Education:
 Now I am studying in BSTU(Minsk) at the faculty of information technology in the specialty "Information Technology Software" on the 2nd course.
-#### 6. English :
+### 6. English :
  English courses (2 years), Now my level is A2 +. 
