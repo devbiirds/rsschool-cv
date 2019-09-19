@@ -28,7 +28,6 @@
   >> CLT via C# by Jeffrey Richter
 >
  >>[Git - Book](https://git-scm.com/book/en/v2) 
->>
 ### 4. Experience:
 **My Codewars account(there are a few example my code on JavaScript)** : [My Codewars Account](https://www.codewars.com/users/whitebird)  
 Participated in numerous coding contest(for example: [acm](https://icpc.baylor.edu), [Catalyst Coding Contest(Minsk)](https://register.codingcontest.org), a lot of contests in my university)
