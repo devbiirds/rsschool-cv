@@ -35,4 +35,4 @@ Participated in numerous coding contest(for example: [acm](https://icpc.baylor.e
 ### 5. Education:
 Now I am studying in **BSTU(Minsk)** at the faculty of information technology in the specialty **"Information Technology Software"** on the 2nd course.
 ### 6. English :
- English courses (2 years), Now my level is A2 +. 
+ English courses (2 years), Now my level is A2+. 
