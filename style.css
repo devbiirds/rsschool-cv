@@ -6,10 +6,39 @@
 body{
     font-family: 'Lato', sans-serif;
 }
+/* the main container*/
 .main-container{
     max-width: 1024px;
     display:flex;
     flex-direction: column;
     margin:0 auto;
+
+}
+/*  Containers with info  */
+.container-info{
+    padding:15px 0;
+
+}
+
+.container-info h3{
+font-size:19px;
+
+}
+.blackquote{
+padding:20px 0 0 50px;
+}
+.blackquote::before{
+content: "";
+display: block;
+height: 100px;
+width: 4px;
+background: #ddd;
+float: left;
+position: relative;
+transform: translateX(-40px);
+}
+.blackquote ul li{
+    color:#534d54;
+    padding:3px 0;
 
 }
