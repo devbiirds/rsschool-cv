@@ -56,7 +56,7 @@ font-size:18px;
 }
 .skills.blackquote::before {
 
-height: 350px;
+height: 400px;
 
 }
 .and.blackquote::before {
@@ -64,3 +64,13 @@ height: 350px;
     height: 25px;
 
 }
+.literature{
+padding:10px 0 0 30px;
+list-style-type:disc;
+
+}
+.literature a{
+    font-size:18px;
+    color:black;
+}
+/* Experience*/
