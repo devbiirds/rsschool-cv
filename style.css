@@ -16,7 +16,13 @@ body {
 .container-info {
   padding: 15px 0;
 }
-
+.link a{
+  color:blue;
+  text-decoration: none;
+}
+.link a:hover{
+  text-decoration: underline;
+}
 .container-info h3 {
   font-size: 19px;
 }
@@ -39,6 +45,9 @@ body {
 .blackquote ul li {
   color: #534d54;
   padding: 3px 0;
+}
+.blackquote ul li a:hover{
+color:red;
 }
 /*About me */
 .goal {
