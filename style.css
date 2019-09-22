@@ -1,102 +1,86 @@
-*{
-    margin:0;
-    padding:0;
-
+* {
+  margin: 0;
+  padding: 0;
 }
 body {
-    font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
 }
 /* the main container*/
 .main-container {
-    max-width: 1024px;
-    display:flex;
-    flex-direction: column;
-    margin:0 auto;
-
+  max-width: 1024px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
 }
 /*  Containers with info  */
 .container-info {
-    padding:15px 0;
-
+  padding: 15px 0;
 }
 
 .container-info h3 {
-font-size:19px;
-
+  font-size: 19px;
 }
 /* Contact-info */
 .blackquote {
-padding:20px 0 0 50px;
+  padding: 20px 0 0 50px;
 }
 
 .blackquote::before {
-content: "";
-display: block;
-height: 100px;
-width: 4px;
-background: #ddd;
-float: left;
-position: relative;
-transform: translateX(-40px);
+  content: "";
+  display: block;
+  height: 100px;
+  width: 4px;
+  background: #ddd;
+  float: left;
+  position: relative;
+  transform: translateX(-40px);
 }
 
 .blackquote ul li {
-    color:#534d54;
-    padding:3px 0;
-
+  color: #534d54;
+  padding: 3px 0;
 }
 /*About me */
-.goal{
-font-size:18px;
-
+.goal {
+  font-size: 18px;
 }
 .about-me-info {
-padding: 15px 0 0 0;
-
+  padding: 15px 0 0 0;
 }
 /* Programming skills*/
 .skills {
-font-size:18px;
+  font-size: 18px;
 }
 .skills.blackquote::before {
-
-height: 400px;
-
+  height: 400px;
 }
 .and.blackquote::before {
-
-    height: 25px;
-
+  height: 25px;
 }
-.literature{
-padding:10px 0 0 30px;
-list-style-type:disc;
-
+.literature {
+  padding: 10px 0 0 30px;
+  list-style-type: disc;
 }
-.literature a{
-    font-size:18px;
-    color:black;
+.literature a {
+  font-size: 18px;
+  color: black;
 }
 /* Experience*/
-.experience{
-font-size:18px;
+.experience {
+  font-size: 18px;
 }
-.image{
-    
-    display: block;
-    margin: 20px auto;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, .2);
-    height: 600px;
+.image {
+  display: block;
+  margin: 20px auto;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  height: 600px;
 }
 /*Education*/
-.education{
-    font-size:18px;
+.education {
+  font-size: 18px;
 }
-
-
 /*English*/
-.english{
-    font-size:18px;
-height: 100px;
-
+.english {
+  font-size: 18px;
+  height: 100px;
 }
