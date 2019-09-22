@@ -46,6 +46,10 @@ transform: translateX(-40px);
 
 }
 /*About me */
+.goal{
+font-size:18px;
+
+}
 .about-me-info {
 padding: 15px 0 0 0;
 
