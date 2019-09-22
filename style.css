@@ -3,11 +3,11 @@
     padding:0;
 
 }
-body{
+body {
     font-family: 'Lato', sans-serif;
 }
 /* the main container*/
-.main-container{
+.main-container {
     max-width: 1024px;
     display:flex;
     flex-direction: column;
@@ -15,19 +15,21 @@ body{
 
 }
 /*  Containers with info  */
-.container-info{
+.container-info {
     padding:15px 0;
 
 }
 
-.container-info h3{
+.container-info h3 {
 font-size:19px;
 
 }
-.blackquote{
+/* Contact-info */
+.blackquote {
 padding:20px 0 0 50px;
 }
-.blackquote::before{
+
+.blackquote::before {
 content: "";
 display: block;
 height: 100px;
@@ -37,8 +39,28 @@ float: left;
 position: relative;
 transform: translateX(-40px);
 }
-.blackquote ul li{
+
+.blackquote ul li {
     color:#534d54;
     padding:3px 0;
+
+}
+/*About me */
+.about-me-info {
+padding: 15px 0 0 0;
+
+}
+/* Programming skills*/
+.skills {
+font-size:18px;
+}
+.skills.blackquote::before {
+
+height: 350px;
+
+}
+.and.blackquote::before {
+
+    height: 25px;
 
 }
