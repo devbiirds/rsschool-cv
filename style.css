@@ -75,18 +75,24 @@ list-style-type:disc;
 }
 /* Experience*/
 .experience{
-font-size:16px;
+font-size:18px;
 }
 .image{
-    margin-top:20px;
+    
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .2);
     height: 600px;
 }
 /*Education*/
-
+.education{
+    font-size:18px;
+}
 
 
 /*English*/
 .english{
-height: 200px;
+    font-size:18px;
+height: 100px;
 
 }
